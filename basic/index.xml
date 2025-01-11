@@ -7,14 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>devkuma ©</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 20:03:00 +0900</lastBuildDate><atom:link href="https://guitar.devkuma.com/basic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jan 2025 11:58:00 +0900</lastBuildDate><atom:link href="https://guitar.devkuma.com/basic/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guitar Chord</title>
+      <title>Guitar structure</title>
+      <link>https://guitar.devkuma.com/basic/guitar-structure/</link>
+      <pubDate>Sat, 11 Jan 2025 11:58:00 +0900</pubDate>
+      
+      <guid>https://guitar.devkuma.com/basic/guitar-structure/</guid>
+      <description>Guitar structure</description>
+    </item>
+    
+    <item>
+      <title>Guitar chord</title>
       <link>https://guitar.devkuma.com/basic/guitar-chord/</link>
       <pubDate>Fri, 10 Jan 2025 20:03:00 +0900</pubDate>
       
       <guid>https://guitar.devkuma.com/basic/guitar-chord/</guid>
-      <description>Guitar Tab</description>
+      <description>Guitar Chord</description>
     </item>
     
   </channel>
