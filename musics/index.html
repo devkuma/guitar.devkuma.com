@@ -126,28 +126,37 @@
 
 <div id="js-list">
   <div class="filter margin-top">
-    <input type="search" class="fuzzy-search" placeholder="Search">
+    
+    <div>
+      <input type="search" class="fuzzy-search" placeholder="Search">
 
-    <select class="js-filter-1">
-      <option value="">Tags</option>
-      </select>
+      <select class="js-filter-1">
+        <option value="">Tags</option>
+        <option value="Cranberries">Cranberries</option>
+        <option value="Deep Purple">Deep Purple</option>
+        <option value="Metallica">Metallica</option>
+        <option value="Radiohead">Radiohead</option>
+        </select>
 
-    <select class="js-filter-2">
-      <option value="">Categories</option>
-      </select>
+      <select class="js-filter-2">
+        <option value="">Categories</option>
+        </select>
+    </div>
 
-    <button class="sort" data-sort="products">
-      Sort by product
-    </button>
+    <div>
+      <button class="sort" data-sort="musics">
+        Sort by music
+      </button>
 
-    <button class="sort" data-sort="date">
-      Sort by date
-    </button>
+      <button class="sort" data-sort="date">
+        Sort by date
+      </button>
+    </div>
   </div>
   <table class="zebra-table responsive-table">
     <thead>
       <tr>
-        <th class="sort" data-sort="products">Product</th>
+        <th class="sort" data-sort="musics">Music</th>
         <th class="sort" data-sort="tags">Tags</th>
         <th class="sort" data-sort="categories">Categories</th>
         <th class="sort" data-sort="date">Date</th>
@@ -171,10 +180,10 @@
 
       <tr>
   <td class="products">
-    <a href="/musics/creep/">Radiohead - Creep</a>
+    <a href="/musics/creep/">Creep</a>
   </td>
 
-  <td class="tags"></td>
+  <td class="tags">Radiohead</td>
 
 
   <td class="categories"></td>
@@ -186,10 +195,10 @@
 
       <tr>
   <td class="products">
-    <a href="/musics/smoke_on_the_water/">Deep Purple - Smoke on the Water</a>
+    <a href="/musics/smoke_on_the_water/">Smoke on the Water</a>
   </td>
 
-  <td class="tags"></td>
+  <td class="tags">Deep Purple</td>
 
 
   <td class="categories"></td>
@@ -231,10 +240,10 @@
 
       <tr>
   <td class="products">
-    <a href="/musics/zombie/">Cranberries - Zombie</a>
+    <a href="/musics/nothing-else-matters/">Nothing else Matters</a>
   </td>
 
-  <td class="tags"></td>
+  <td class="tags">Metallica</td>
 
 
   <td class="categories"></td>
@@ -246,10 +255,10 @@
 
       <tr>
   <td class="products">
-    <a href="/musics/nothing-else-matters/">Metallica - Nothing else Matters</a>
+    <a href="/musics/zombie/">Zombie</a>
   </td>
 
-  <td class="tags"></td>
+  <td class="tags">Cranberries</td>
 
 
   <td class="categories"></td>
