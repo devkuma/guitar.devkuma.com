@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on Guitar</title>
+    <link>https://guitar.devkuma.com/basic/</link>
+    <description>Recent content in Basics on Guitar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <copyright>devkuma ©</copyright>
+    <lastBuildDate>Fri, 10 Jan 2025 20:03:00 +0900</lastBuildDate><atom:link href="https://guitar.devkuma.com/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guitar Chord</title>
+      <link>https://guitar.devkuma.com/basic/guitar-chord/</link>
+      <pubDate>Fri, 10 Jan 2025 20:03:00 +0900</pubDate>
+      
+      <guid>https://guitar.devkuma.com/basic/guitar-chord/</guid>
+      <description>Guitar Tab</description>
+    </item>
+    
+  </channel>
+</rss>
