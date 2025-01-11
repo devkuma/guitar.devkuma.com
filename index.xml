@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <copyright>devkuma ©</copyright>
-    <lastBuildDate>Sat, 11 Jan 2025 11:58:00 +0900</lastBuildDate><atom:link href="https://guitar.devkuma.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jan 2025 12:33:00 +0900</lastBuildDate><atom:link href="https://guitar.devkuma.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canon Rock</title>
       <link>https://guitar.devkuma.com/musics/canon-rock/</link>
@@ -15,6 +15,24 @@
       
       <guid>https://guitar.devkuma.com/musics/canon-rock/</guid>
       <description>Guitar Tab</description>
+    </item>
+    
+    <item>
+      <title>Radiohead - Creep</title>
+      <link>https://guitar.devkuma.com/musics/creep/</link>
+      <pubDate>Sat, 11 Jan 2025 12:33:00 +0900</pubDate>
+      
+      <guid>https://guitar.devkuma.com/musics/creep/</guid>
+      <description>Guitar Tab</description>
+    </item>
+    
+    <item>
+      <title>일렉기타 추천 해드셋</title>
+      <link>https://guitar.devkuma.com/basic/headset/</link>
+      <pubDate>Sat, 11 Jan 2025 12:30:00 +0900</pubDate>
+      
+      <guid>https://guitar.devkuma.com/basic/headset/</guid>
+      <description>Headset</description>
     </item>
     
     <item>
