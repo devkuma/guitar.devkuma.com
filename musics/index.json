@@ -1,0 +1,75 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Musics  devkuma's Guitar",
+    "description": "  Musics  devkuma's Guitar",
+    "home_page_url": "https://guitar.devkuma.com/",
+    "feed_url": "https://guitar.devkuma.com/musics/index.json",
+    "language": "ko-kr",
+    "icon": "https://guitar.devkuma.com/favicons/apple-touch-icon-180x180.png",
+    "favicon": "https://guitar.devkuma.com/favicons/apple-touch-icon-180x180.png",
+    "authors": [
+        {
+            "name": "kimkc",
+            "url": "https://www.devkuma.com"
+        }
+    ],
+    "items": [
+        {
+            "title": "Canon Rock",
+            "date_published": "2025-01-10T01:16:00+09:00",
+            "date_modified": "2025-01-10T01:16:00+09:00",
+            "id": "https://guitar.devkuma.com/musics/canon-rock/",
+            "url": "https://guitar.devkuma.com/musics/canon-rock/",
+            "content_html": "\u003cp\u003e\u003ca href=\"https://www.youtube.com/watch?v=zM7ucP3U-vw\u0026amp;list=PLBBzcr1DbUskzQJME-CWnzaZFABLybw5U\" target=\"_blank\" rel=\"noopener\"\u003e쉬운 강좌\u003c/a\u003e\u003c/p\u003e\n"
+        },
+        {
+            "title": "Radiohead - Creep",
+            "date_published": "2025-01-11T12:33:00+09:00",
+            "date_modified": "2025-01-11T12:33:00+09:00",
+            "id": "https://guitar.devkuma.com/musics/creep/",
+            "url": "https://guitar.devkuma.com/musics/creep/",
+            "content_html": "\u003cp\u003e출처: \u003ca href=\"https://blog.naver.com/yogoho210/222286936123\" target=\"_blank\" rel=\"noopener\"\u003e나름 일렉기타 입문곡 : 라디오헤드 Radiohead - Creep 기타 코드랑 악보 (통단기 쉬운버전)|작성자 통단기\u003c/a\u003e\u003c/p\u003e\n"
+        },
+        {
+            "title": "Deep Purple - Smoke on the Water",
+            "date_published": "2025-01-10T20:31:00+09:00",
+            "date_modified": "2025-01-10T20:31:00+09:00",
+            "id": "https://guitar.devkuma.com/musics/smoke_on_the_water/",
+            "url": "https://guitar.devkuma.com/musics/smoke_on_the_water/",
+            "content_html": ""
+        },
+        {
+            "title": "Super Mario Main Theme",
+            "date_published": "2025-01-10T20:03:00+09:00",
+            "date_modified": "2025-01-10T20:03:00+09:00",
+            "id": "https://guitar.devkuma.com/musics/super-mario-main-theme/",
+            "url": "https://guitar.devkuma.com/musics/super-mario-main-theme/",
+            "content_html": "\u003cp\u003e\u003ca href=\"https://musescore.com/user/31414721/scores/5471082\" target=\"_blank\" rel=\"noopener\"\u003emusescore\u003c/a\u003e\u003c/p\u003e\n"
+        },
+        {
+            "title": "Romance",
+            "date_published": "2025-01-10T19:59:00+09:00",
+            "date_modified": "2025-01-10T19:59:00+09:00",
+            "id": "https://guitar.devkuma.com/musics/romance/",
+            "url": "https://guitar.devkuma.com/musics/romance/",
+            "content_html": ""
+        },
+        {
+            "title": "Cranberries - Zombie",
+            "date_published": "2025-01-10T19:56:00+09:00",
+            "date_modified": "2025-01-10T19:56:00+09:00",
+            "id": "https://guitar.devkuma.com/musics/zombie/",
+            "url": "https://guitar.devkuma.com/musics/zombie/",
+            "content_html": ""
+        },
+        {
+            "title": "Metallica - Nothing else Matters",
+            "date_published": "2025-01-10T19:56:00+09:00",
+            "date_modified": "2025-01-10T19:56:00+09:00",
+            "id": "https://guitar.devkuma.com/musics/nothing-else-matters/",
+            "url": "https://guitar.devkuma.com/musics/nothing-else-matters/",
+            "content_html": ""
+        }
+        ]
+}
