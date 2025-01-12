@@ -1,8 +1,8 @@
 
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "Musics  devkuma's Guitar",
-    "description": "  Musics  devkuma's Guitar",
+    "title": "Basics  devkuma's Guitar",
+    "description": "  Basics  devkuma's Guitar",
     "home_page_url": "https://guitar.devkuma.com/",
     "feed_url": "https://guitar.devkuma.com/basic/index.json",
     "language": "ko-kr",
