@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chord  devkuma&#39;s Guitar</title>
-    <link>https://guitar.devkuma.com/chord/</link>
-    <description>  Chord  devkuma&#39;s Guitar</description>
+    <title>Chord on devkuma&#39;s Guitar</title>
+    <link>https://guitar.devkuma.com&#34;/chord/</link>
+    <description>Recent content in Chord on devkuma&#39;s Guitar</description>
     <generator>Hugo</generator>
-    <language>ko-kr</language>
+    <language>ko</language>
     <lastBuildDate>Fri, 10 Jan 2025 20:03:00 +0900</lastBuildDate>
-      <atom:link href="https://guitar.devkuma.com/chord/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guitar.devkuma.com\"/chord/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Guitar chord</title>
-      <link>https://guitar.devkuma.com/chord/guitar-chord/</link>
+      <link>https://guitar.devkuma.com&#34;/chord/guitar-chord/</link>
       <pubDate>Fri, 10 Jan 2025 20:03:00 +0900</pubDate>
-      <guid>https://guitar.devkuma.com/chord/guitar-chord/</guid>
-      <description>&lt;img src=&#34;guitar-chord.png&#34; style=&#34;width:100%&#34;&gt;</description>
+      <guid>https://guitar.devkuma.com&#34;/chord/guitar-chord/</guid>
+      <description>Guitar structure</description>
     </item>
   </channel>
 </rss>
