@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chord on devkuma&#39;s Guitar</title>
-    <link>https://guitar.devkuma.com&#34;/chord/</link>
+    <link>https://guitar.devkuma.com/chord/</link>
     <description>Recent content in Chord on devkuma&#39;s Guitar</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <lastBuildDate>Fri, 10 Jan 2025 20:03:00 +0900</lastBuildDate>
-    <atom:link href="https://guitar.devkuma.com\"/chord/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guitar.devkuma.com/chord/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Guitar chord</title>
-      <link>https://guitar.devkuma.com&#34;/chord/guitar-chord/</link>
+      <link>https://guitar.devkuma.com/chord/guitar-chord/</link>
       <pubDate>Fri, 10 Jan 2025 20:03:00 +0900</pubDate>
-      <guid>https://guitar.devkuma.com&#34;/chord/guitar-chord/</guid>
+      <guid>https://guitar.devkuma.com/chord/guitar-chord/</guid>
       <description>Guitar structure</description>
     </item>
   </channel>

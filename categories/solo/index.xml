@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solo on devkuma&#39;s Guitar</title>
-    <link>https://guitar.devkuma.com&#34;/categories/solo/</link>
+    <link>https://guitar.devkuma.com/categories/solo/</link>
     <description>Recent content in Solo on devkuma&#39;s Guitar</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <lastBuildDate>Mon, 13 Jan 2025 19:32:00 +0900</lastBuildDate>
-    <atom:link href="https://guitar.devkuma.com\"/categories/solo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://guitar.devkuma.com/categories/solo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seven Nation Army</title>
-      <link>https://guitar.devkuma.com&#34;/musics/seven-nation-army/</link>
+      <link>https://guitar.devkuma.com/musics/seven-nation-army/</link>
       <pubDate>Mon, 13 Jan 2025 19:32:00 +0900</pubDate>
-      <guid>https://guitar.devkuma.com&#34;/musics/seven-nation-army/</guid>
+      <guid>https://guitar.devkuma.com/musics/seven-nation-army/</guid>
       <description>Guitar Tab</description>
     </item>
   </channel>
