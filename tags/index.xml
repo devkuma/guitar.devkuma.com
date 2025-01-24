@@ -6,8 +6,15 @@
     <description>Recent content in Tags on devkuma&#39;s Guitar</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 20 Jan 2025 22:26:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 22:51:00 +0900</lastBuildDate>
     <atom:link href="https://guitar.devkuma.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metallica</title>
+      <link>https://guitar.devkuma.com/tags/metallica/</link>
+      <pubDate>Fri, 24 Jan 2025 22:51:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/tags/metallica/</guid>
+      <description></description>
+    </item>
     <item>
       <title>ヨルシカ</title>
       <link>https://guitar.devkuma.com/tags/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/</link>
@@ -48,13 +55,6 @@
       <link>https://guitar.devkuma.com/tags/cranberries/</link>
       <pubDate>Fri, 10 Jan 2025 19:56:00 +0900</pubDate>
       <guid>https://guitar.devkuma.com/tags/cranberries/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metallica</title>
-      <link>https://guitar.devkuma.com/tags/metallica/</link>
-      <pubDate>Fri, 10 Jan 2025 19:56:00 +0900</pubDate>
-      <guid>https://guitar.devkuma.com/tags/metallica/</guid>
       <description></description>
     </item>
   </channel>

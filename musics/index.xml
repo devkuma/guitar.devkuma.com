@@ -6,13 +6,20 @@
     <description>Recent content in Musics on devkuma&#39;s Guitar</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 20 Jan 2025 22:26:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 22:51:00 +0900</lastBuildDate>
     <atom:link href="https://guitar.devkuma.com/musics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Canon Rock</title>
-      <link>https://guitar.devkuma.com/musics/canon-rock/</link>
-      <pubDate>Fri, 10 Jan 2025 01:16:00 +0900</pubDate>
-      <guid>https://guitar.devkuma.com/musics/canon-rock/</guid>
+      <title>The Unforgiven</title>
+      <link>https://guitar.devkuma.com/musics/unforgiven/</link>
+      <pubDate>Fri, 24 Jan 2025 22:51:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/musics/unforgiven/</guid>
+      <description>Guitar Tab</description>
+    </item>
+    <item>
+      <title>A Cruel Angel&#39;s Thesis</title>
+      <link>https://guitar.devkuma.com/musics/a-cruel-angel-s-thesis/</link>
+      <pubDate>Fri, 24 Jan 2025 10:38:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/musics/a-cruel-angel-s-thesis/</guid>
       <description>Guitar Tab</description>
     </item>
     <item>
@@ -69,6 +76,13 @@
       <link>https://guitar.devkuma.com/musics/zombie/</link>
       <pubDate>Fri, 10 Jan 2025 19:56:00 +0900</pubDate>
       <guid>https://guitar.devkuma.com/musics/zombie/</guid>
+      <description>Guitar Tab</description>
+    </item>
+    <item>
+      <title>Canon Rock</title>
+      <link>https://guitar.devkuma.com/musics/canon-rock/</link>
+      <pubDate>Fri, 10 Jan 2025 01:16:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/musics/canon-rock/</guid>
       <description>Guitar Tab</description>
     </item>
   </channel>
