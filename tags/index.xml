@@ -6,8 +6,29 @@
     <description>Recent content in Tags on devkuma&#39;s Guitar</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 24 Jan 2025 22:51:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 19:48:00 +0900</lastBuildDate>
     <atom:link href="https://guitar.devkuma.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EVANGELION</title>
+      <link>https://guitar.devkuma.com/tags/evangelion/</link>
+      <pubDate>Sat, 25 Jan 2025 19:48:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/tags/evangelion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guitar TAB</title>
+      <link>https://guitar.devkuma.com/tags/guitar-tab/</link>
+      <pubDate>Sat, 25 Jan 2025 19:48:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/tags/guitar-tab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OST</title>
+      <link>https://guitar.devkuma.com/tags/ost/</link>
+      <pubDate>Sat, 25 Jan 2025 19:48:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/tags/ost/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Metallica</title>
       <link>https://guitar.devkuma.com/tags/metallica/</link>
@@ -37,6 +58,13 @@
       <description></description>
     </item>
     <item>
+      <title>Radiohead</title>
+      <link>https://guitar.devkuma.com/tags/radiohead/</link>
+      <pubDate>Sat, 11 Jan 2025 12:33:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/tags/radiohead/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Deep Purple</title>
       <link>https://guitar.devkuma.com/tags/deep-purple/</link>
       <pubDate>Fri, 10 Jan 2025 20:31:00 +0900</pubDate>
@@ -51,10 +79,17 @@
       <description></description>
     </item>
     <item>
-      <title>Cranberries</title>
-      <link>https://guitar.devkuma.com/tags/cranberries/</link>
+      <title>The Cranberries</title>
+      <link>https://guitar.devkuma.com/tags/the-cranberries/</link>
       <pubDate>Fri, 10 Jan 2025 19:56:00 +0900</pubDate>
-      <guid>https://guitar.devkuma.com/tags/cranberries/</guid>
+      <guid>https://guitar.devkuma.com/tags/the-cranberries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JerryC</title>
+      <link>https://guitar.devkuma.com/tags/jerryc/</link>
+      <pubDate>Fri, 10 Jan 2025 01:16:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/tags/jerryc/</guid>
       <description></description>
     </item>
   </channel>

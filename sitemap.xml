@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guitar.devkuma.com/musics/a-cruel-angel-s-thesis/</loc>
+    <lastmod>2025-01-25T19:48:00+09:00</lastmod>
+  </url><url>
     <loc>https://guitar.devkuma.com/musics/unforgiven/</loc>
     <lastmod>2025-01-24T22:51:00+09:00</lastmod>
-  </url><url>
-    <loc>https://guitar.devkuma.com/musics/a-cruel-angel-s-thesis/</loc>
-    <lastmod>2025-01-24T10:38:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/musics/say-it-yorushika/</loc>
     <lastmod>2025-01-20T22:26:00+09:00</lastmod>
@@ -19,6 +19,9 @@
   </url><url>
     <loc>https://guitar.devkuma.com/learn/getting-started/do-re-mi-fa-sol-la-ti-do/</loc>
     <lastmod>2025-01-12T23:19:00+09:00</lastmod>
+  </url><url>
+    <loc>https://guitar.devkuma.com/musics/creep/</loc>
+    <lastmod>2025-01-11T12:33:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/learn/getting-started/headset/</loc>
     <lastmod>2025-01-11T12:30:00+09:00</lastmod>
@@ -35,7 +38,7 @@
     <loc>https://guitar.devkuma.com/musics/super-mario-main-theme/</loc>
     <lastmod>2025-01-10T20:03:00+09:00</lastmod>
   </url><url>
-    <loc>https://guitar.devkuma.com/musics/romance/</loc>
+    <loc>https://guitar.devkuma.com/musics/romance-de-amor/</loc>
     <lastmod>2025-01-10T19:59:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/musics/nothing-else-matters/</loc>
@@ -48,14 +51,23 @@
     <lastmod>2025-01-10T01:16:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/musics/</loc>
-    <lastmod>2025-01-24T22:51:00+09:00</lastmod>
+    <lastmod>2025-01-25T19:48:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/learn/getting-started/overview/</loc>
   </url><url>
-    <loc>https://guitar.devkuma.com/tags/metallica/</loc>
-    <lastmod>2025-01-24T22:51:00+09:00</lastmod>
+    <loc>https://guitar.devkuma.com/tags/evangelion/</loc>
+    <lastmod>2025-01-25T19:48:00+09:00</lastmod>
+  </url><url>
+    <loc>https://guitar.devkuma.com/tags/guitar-tab/</loc>
+    <lastmod>2025-01-25T19:48:00+09:00</lastmod>
+  </url><url>
+    <loc>https://guitar.devkuma.com/tags/ost/</loc>
+    <lastmod>2025-01-25T19:48:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/tags/</loc>
+    <lastmod>2025-01-25T19:48:00+09:00</lastmod>
+  </url><url>
+    <loc>https://guitar.devkuma.com/tags/metallica/</loc>
     <lastmod>2025-01-24T22:51:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/tags/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB/</loc>
@@ -73,6 +85,9 @@
     <loc>https://guitar.devkuma.com/tags/the-white-stripe/</loc>
     <lastmod>2025-01-13T19:32:00+09:00</lastmod>
   </url><url>
+    <loc>https://guitar.devkuma.com/tags/radiohead/</loc>
+    <lastmod>2025-01-11T12:33:00+09:00</lastmod>
+  </url><url>
     <loc>https://guitar.devkuma.com/tags/deep-purple/</loc>
     <lastmod>2025-01-10T20:31:00+09:00</lastmod>
   </url><url>
@@ -82,10 +97,13 @@
     <loc>https://guitar.devkuma.com/tags/koji-kondo/</loc>
     <lastmod>2025-01-10T20:03:00+09:00</lastmod>
   </url><url>
-    <loc>https://guitar.devkuma.com/tags/cranberries/</loc>
+    <loc>https://guitar.devkuma.com/tags/the-cranberries/</loc>
     <lastmod>2025-01-10T19:56:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/about/</loc>
+    <lastmod>2025-01-10T01:16:00+09:00</lastmod>
+  </url><url>
+    <loc>https://guitar.devkuma.com/tags/jerryc/</loc>
     <lastmod>2025-01-10T01:16:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/</loc>
