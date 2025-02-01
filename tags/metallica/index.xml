@@ -10,16 +10,16 @@
     <atom:link href="https://guitar.devkuma.com/tags/metallica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Unforgiven</title>
-      <link>https://guitar.devkuma.com/musics/unforgiven/</link>
+      <link>https://guitar.devkuma.com/musics/metallica/unforgiven/</link>
       <pubDate>Fri, 24 Jan 2025 22:51:00 +0900</pubDate>
-      <guid>https://guitar.devkuma.com/musics/unforgiven/</guid>
+      <guid>https://guitar.devkuma.com/musics/metallica/unforgiven/</guid>
       <description>Metallica</description>
     </item>
     <item>
       <title>Nothing else Matters</title>
-      <link>https://guitar.devkuma.com/musics/nothing-else-matters/</link>
+      <link>https://guitar.devkuma.com/musics/metallica/nothing-else-matters/</link>
       <pubDate>Fri, 10 Jan 2025 19:56:00 +0900</pubDate>
-      <guid>https://guitar.devkuma.com/musics/nothing-else-matters/</guid>
+      <guid>https://guitar.devkuma.com/musics/metallica/nothing-else-matters/</guid>
       <description>Metallica</description>
     </item>
   </channel>
