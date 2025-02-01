@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guitar on devkuma&#39;s Guitar</title>
+    <title>Guitar on dk&#39;s Guitar</title>
     <link>https://guitar.devkuma.com/</link>
-    <description>Recent content in Guitar on devkuma&#39;s Guitar</description>
+    <description>Recent content in Guitar on dk&#39;s Guitar</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 25 Jan 2025 19:48:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 17:14:00 +0900</lastBuildDate>
     <atom:link href="https://guitar.devkuma.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Red Hot Chili Peppers</title>
+      <link>https://guitar.devkuma.com/musics/red-hot-chili-peppers/californication/</link>
+      <pubDate>Sat, 01 Feb 2025 17:14:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/musics/red-hot-chili-peppers/californication/</guid>
+      <description>Californication</description>
+    </item>
     <item>
       <title>残酷な天使のテーゼ</title>
       <link>https://guitar.devkuma.com/musics/a-cruel-angel-s-thesis/</link>
