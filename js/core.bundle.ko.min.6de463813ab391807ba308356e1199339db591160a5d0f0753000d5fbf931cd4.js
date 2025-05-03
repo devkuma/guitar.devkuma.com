@@ -14,7 +14,7 @@ Show Guitar TAB Source: 나름 일렉기타 입문곡 : 라디오헤드 Radiohea
 Show Guitar TAB`}).add({id:6,tag:"ko",href:"/musics/radiohead/no-surprises/",title:"No Surprises",description:"Radiohead",content:`Guitar &nbsp; Radiohead - No Surprises &nbsp; 일렉 기타 커버 악보 코드 MR Inst. 노래방
 Show Guitar TAB`}).add({id:7,tag:"ko",href:"/musics/metallica/nothing-else-matters/",title:"Nothing else Matters",description:"Metallica",content:`Guitar &nbsp; 서정적이면서도 연습에 좋은 아르페지오와 솔로가 포함되어 있다.
 Metallica - Nothing Else Matters &nbsp; Guitar TAB | Lesson | Cover | Tutorial
-Show Guitar TAB`}).add({id:8,tag:"ko",href:"/musics/pirates-of-the-caribbean/main-theme/",title:"Pirates Of The Caribbean",description:"Koji Kondo",content:`Guitar &nbsp; Pirates Of The Caribbean &nbsp; Guitar Tutorial MELODY
+Show Guitar TAB`}).add({id:8,tag:"ko",href:"/musics/pirates-of-the-caribbean/main-theme/",title:"Pirates Of The Caribbean",description:"Main Theme",content:`Guitar &nbsp; Pirates Of The Caribbean &nbsp; Guitar Tutorial MELODY
 Show Guitar TAB Original &nbsp; Main Theme | Pirates of the Caribbean &nbsp;`}).add({id:9,tag:"ko",href:"/musics/romance-de-amor/",title:"Romance De Amor",description:"Unknown",content:"Guitar &nbsp; 오늘 기타 산 왕초보도 칠 수 있는! 쉽고 짧은 Romance(로망스) &nbsp; Show Guitar TAB Links &nbsp; Bugs"}).add({id:10,tag:"ko",href:"/musics/seven-nation-army/",title:"Seven Nation Army",description:"The White Stripe",content:`Original &nbsp; Official &nbsp; Guitar &nbsp; 반복적이고 단순한 리프가 기타 초보자에게 적합하다.
 기초적인 리프에서 변형된 부분이 포함되어 있어 도전하기 좋다.
 The White Stripes - Seven Nation Army &nbsp; guitar cover with tabs &amp; chords
