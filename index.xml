@@ -6,14 +6,21 @@
     <description>Recent content in Guitar on dk&#39;s Guitar</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 03 May 2025 22:38:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 23:46:00 +0900</lastBuildDate>
     <atom:link href="https://guitar.devkuma.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jack Black - Steve&#39;s Lava Chicken</title>
+      <title>Pirates Of The Caribbean</title>
+      <link>https://guitar.devkuma.com/musics/pirates-of-the-caribbean/main-theme/</link>
+      <pubDate>Sat, 03 May 2025 23:46:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/musics/pirates-of-the-caribbean/main-theme/</guid>
+      <description>Koji Kondo</description>
+    </item>
+    <item>
+      <title>Steve&#39;s Lava Chicken</title>
       <link>https://guitar.devkuma.com/musics/minecraft/steve-s-lava-chicken/</link>
       <pubDate>Sat, 03 May 2025 22:38:00 +0900</pubDate>
       <guid>https://guitar.devkuma.com/musics/minecraft/steve-s-lava-chicken/</guid>
-      <description>Minecraft Movie</description>
+      <description>Jack Black | Minecraft Movie</description>
     </item>
     <item>
       <title>고백</title>
@@ -142,10 +149,10 @@
       <description>Guitar structure</description>
     </item>
     <item>
-      <title>Super Mario Main Theme</title>
-      <link>https://guitar.devkuma.com/musics/super-mario-main-theme/</link>
+      <title>Super Mario</title>
+      <link>https://guitar.devkuma.com/musics/super-mario/main-theme/</link>
       <pubDate>Fri, 10 Jan 2025 20:03:00 +0900</pubDate>
-      <guid>https://guitar.devkuma.com/musics/super-mario-main-theme/</guid>
+      <guid>https://guitar.devkuma.com/musics/super-mario/main-theme/</guid>
       <description>Koji Kondo</description>
     </item>
     <item>
