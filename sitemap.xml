@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guitar.devkuma.com/musics/tetris/</loc>
+    <lastmod>2025-05-18T14:58:00+09:00</lastmod>
+  </url><url>
     <loc>https://guitar.devkuma.com/musics/pirates-of-the-caribbean/main-theme/</loc>
     <lastmod>2025-05-03T23:46:00+09:00</lastmod>
   </url><url>
@@ -78,20 +81,23 @@
     <lastmod>2025-01-10T01:16:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/musics/</loc>
-    <lastmod>2025-05-03T23:46:00+09:00</lastmod>
+    <lastmod>2025-05-18T14:58:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/learn/getting-started/overview/</loc>
+  </url><url>
+    <loc>https://guitar.devkuma.com/tags/melody/</loc>
+    <lastmod>2025-05-18T14:58:00+09:00</lastmod>
+  </url><url>
+    <loc>https://guitar.devkuma.com/tags/</loc>
+    <lastmod>2025-05-18T14:58:00+09:00</lastmod>
+  </url><url>
+    <loc>https://guitar.devkuma.com/tags/tetris/</loc>
+    <lastmod>2025-05-18T14:58:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/tags/main-theme/</loc>
     <lastmod>2025-05-03T23:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://guitar.devkuma.com/tags/</loc>
-    <lastmod>2025-05-03T23:46:00+09:00</lastmod>
-  </url><url>
     <loc>https://guitar.devkuma.com/tags/jack-black/</loc>
-    <lastmod>2025-05-03T23:46:00+09:00</lastmod>
-  </url><url>
-    <loc>https://guitar.devkuma.com/tags/melody/</loc>
     <lastmod>2025-05-03T23:46:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/tags/minecraft-movie/</loc>

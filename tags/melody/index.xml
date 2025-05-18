@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Melody on dk&#39;s Guitar</title>
+    <title>MELODY on dk&#39;s Guitar</title>
     <link>https://guitar.devkuma.com/tags/melody/</link>
-    <description>Recent content in Melody on dk&#39;s Guitar</description>
+    <description>Recent content in MELODY on dk&#39;s Guitar</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 03 May 2025 23:46:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 14:58:00 +0900</lastBuildDate>
     <atom:link href="https://guitar.devkuma.com/tags/melody/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tetris</title>
+      <link>https://guitar.devkuma.com/musics/tetris/</link>
+      <pubDate>Sun, 18 May 2025 14:58:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/musics/tetris/</guid>
+      <description>Tetris</description>
+    </item>
     <item>
       <title>Steve&#39;s Lava Chicken</title>
       <link>https://guitar.devkuma.com/musics/minecraft/steve-s-lava-chicken/</link>
