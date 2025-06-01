@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greensleeves on dk&#39;s Guitar</title>
+    <link>https://guitar.devkuma.com/tags/greensleeves/</link>
+    <description>Recent content in Greensleeves on dk&#39;s Guitar</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Sun, 01 Jun 2025 11:16:00 +0900</lastBuildDate>
+    <atom:link href="https://guitar.devkuma.com/tags/greensleeves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greensleeves</title>
+      <link>https://guitar.devkuma.com/musics/greensleeves/</link>
+      <pubDate>Sun, 01 Jun 2025 11:16:00 +0900</pubDate>
+      <guid>https://guitar.devkuma.com/musics/greensleeves/</guid>
+      <description>Traditional Song</description>
+    </item>
+  </channel>
+</rss>
