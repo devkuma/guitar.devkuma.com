@@ -8,7 +8,7 @@
 Show Guitar TAB Tab Source: https://www.songsterr.com/a/wsa/red-hot-chili-peppers-californication-tab-s439
 galagomusic &nbsp; Show Guitar TAB Source: https://www.galagomusic.com/wp-content/uploads/2014/10/Red-Hot-Chili-Pepers-Californication-Galago-Music.pdf
 Power Tab &nbsp; Downlond Power Tab Source: https://gtptabs.com/tabs/18/red-hot-chili-peppers/californication-7.html`}).add({id:2,tag:"ko",href:"/musics/canon-rock/",title:"Canon Rock",description:"JerryC",content:`Guitar TAB &nbsp; Jerry C - Canon Rock Guitar Lesson with Tab Part.1 &nbsp; Slow Tempo
-Show Guitar TAB soyul - Canon lesson 캐논 레슨 &nbsp; 기타강좌 - Canon lesson 캐논 강좌 전용`}).add({id:3,tag:"ko",href:"/musics/crazy-frog/axel-f/inxdex/",title:"Crazy Frog",description:"Axel F",content:`Guitar TAB &nbsp; Crazy Frog - Axel F &nbsp; Easy Guitar Tutorial (MELODY) + TAB
+Show Guitar TAB soyul - Canon lesson 캐논 레슨 &nbsp; 기타강좌 - Canon lesson 캐논 강좌 전용`}).add({id:3,tag:"ko",href:"/musics/crazy-frog/axel-f/",title:"Crazy Frog",description:"Axel F",content:`Guitar TAB &nbsp; Crazy Frog - Axel F &nbsp; Easy Guitar Tutorial (MELODY) + TAB
 Show Guitar TAB Original &nbsp; Official Video &nbsp;`}).add({id:4,tag:"ko",href:"/musics/radiohead/creep/",title:"Creep",description:"Radiohead",content:`Guitar TAB &nbsp; 일렉 공식 입문곡임 Radiohead - Creep : 일렉기타 연주랑 악보랑 &nbsp; 통단기 쉬운버전
 Show Guitar TAB Source: 나름 일렉기타 입문곡 : 라디오헤드 Radiohead - Creep 기타 코드랑 악보 (통단기 쉬운버전)|작성자 통단기`}).add({id:5,tag:"ko",href:"/about/",title:"devkuma",description:"기타 치는 개발자",content:`늦은 나이에 시작한 기타&hellip;
 잘치고 싶다.ㅎ`}).add({id:6,tag:"ko",href:"/musics/frank-sinatra-/fly-me-to-the-moon/",title:"Fly Me To The Moon",description:"Frank Sinatra",content:`Guitar TAB &nbsp; Fly Me To The Moon - Frank Sinatra &nbsp; Instrumental Guitar Cover + TAB
