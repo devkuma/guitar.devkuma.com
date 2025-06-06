@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guitar.devkuma.com/musics/crazy-frog/axel-f/inxdex/</loc>
+    <lastmod>2025-06-06T14:20:00+09:00</lastmod>
+  </url><url>
     <loc>https://guitar.devkuma.com/musics/greensleeves/</loc>
     <lastmod>2025-06-01T11:16:00+09:00</lastmod>
   </url><url>
@@ -87,17 +90,20 @@
     <lastmod>2025-01-10T01:16:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/musics/</loc>
-    <lastmod>2025-06-01T11:16:00+09:00</lastmod>
+    <lastmod>2025-06-06T14:20:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/learn/getting-started/overview/</loc>
+  </url><url>
+    <loc>https://guitar.devkuma.com/tags/axel-f/</loc>
+    <lastmod>2025-06-06T14:20:00+09:00</lastmod>
+  </url><url>
+    <loc>https://guitar.devkuma.com/tags/</loc>
+    <lastmod>2025-06-06T14:20:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/tags/greensleeves/</loc>
     <lastmod>2025-06-01T11:16:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/tags/melody/</loc>
-    <lastmod>2025-06-01T11:16:00+09:00</lastmod>
-  </url><url>
-    <loc>https://guitar.devkuma.com/tags/</loc>
     <lastmod>2025-06-01T11:16:00+09:00</lastmod>
   </url><url>
     <loc>https://guitar.devkuma.com/tags/tetris/</loc>
