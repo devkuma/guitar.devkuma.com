@@ -30,7 +30,7 @@ Show Guitar TAB musescore &nbsp; Show Guitar TAB Source: https://musescore.com/u
 Show Guitar TAB`}).add({id:18,tag:"ko",href:"/musics/x-japan/tears/",title:"Tears",description:"X Japan",content:`Guitar TAB &nbsp; X Japan - Tears Guitar solo &nbsp; TAB + INST.
 Show Guitar TAB`}).add({id:19,tag:"ko",href:"/musics/tetris/",title:"Tetris",description:"Tetris",content:`Guitar TAB &nbsp; Tetris &nbsp; Easy Guitar Tutorial (MELODY)
 Show Guitar TAB`}).add({id:20,tag:"ko",href:"/musics/metallica/unforgiven/",title:"The Unforgiven",description:"Metallica",content:`Guitar TAB &nbsp; gitar online: Metallica - The Unforgiven &nbsp; Guitar Instrumental Cover + Tab
-Show Guitar TAB Mr. Tabs: Metallica - The Unforgiven &nbsp; Guitar TAB | Lesson | Cover | Tutorial
+Show Guitar TAB Backing track &nbsp; 오디오가 지원되지 않는 브라우저입니다. Mr. Tabs: Metallica - The Unforgiven &nbsp; Guitar TAB | Lesson | Cover | Tutorial
 Metallica: The Unforgiven (Official Music Video) &nbsp; As recorded by METALLICA From the 1991 Album METALLICA
 Show Guitar TAB`}).add({id:21,tag:"ko",href:"/musics/the-cranberries/zombie/",title:"Zombie",description:"The Cranberries",content:`Guitar TAB &nbsp; Zombie - The Cranberries &nbsp; Guitar Tutorial | MELODY
 Show Guitar TAB Zombie - The Cranberries &nbsp; Tabs | Guitar Lesson | Cover | Tutorial | Solo | All Guitar Parts
